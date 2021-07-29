@@ -23,7 +23,6 @@ main{
 .section-title{
     color: #562EFF;
     font-size: 24px;
-    font-weight: 500;
     margin-top: 3px;
     margin-bottom: 40px;
 }
@@ -57,4 +56,16 @@ main{
 }
 .blog-info{
     margin-left: 16px;
+}
+.blog-title{
+    font-size: 20px;
+}
+.blog-author{
+    color: #9F9F9F;
+    font-size: 16px;
+}
+.blog-author a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #562EFF;
 }
